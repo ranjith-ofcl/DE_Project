@@ -1,0 +1,9 @@
+numpy
+pandas
+pip
+protobuf
+psycopg2
+python-dateutil
+pytz
+six
+tzdata
